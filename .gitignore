@@ -1,0 +1,6 @@
+# IDE
+.idea/
+
+# Sistema
+Thumbs.db
+.DS_Store
